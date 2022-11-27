@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on opensource aplications like engeeners programs and GIS programs.
 - 🤔 I’m looking for help with my apps.
 - 💬 Ask me about hydrology and hydraulic models.
-- 📫 How to reach me: kamilbasinski.pl
+- 📫 How to reach me: https://kamilbasinski.pl
 - ⚡ Fun fact: Many engineers carry tools with them.
 
 
